@@ -13,19 +13,24 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/rajhearing",
+            "outputPath": "rajhearing/dist",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/data",
+              "src/email.php"
+              
             ],
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [ 
+              
+              ]
           },
           "configurations": {
             "production": {
@@ -73,11 +78,19 @@
             "karmaConfig": "src/karma.conf.js",
             "styles": [
               "src/styles.css"
+             
+
+
             ],
-            "scripts": [],
+            "scripts": [
+             
+            ],
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "css/style.css",
+              "src/data"
+             
             ]
           }
         },

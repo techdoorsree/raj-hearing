@@ -1,14 +1,122 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <title>Rajhearing</title>
   <base href="/">
+<!--[if lt IE 9]>
+	<script src="js/html5shiv.js"></script>
+	<![endif]-->
 
+    <!-- CSS Files
+    ================================================== -->
+    <link rel="stylesheet" href="assets/css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/jpreloader.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/animate.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/plugin.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/owl.theme.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/owl.transitions.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+    
+    <!-- custom background -->
+    <link rel="stylesheet" href="assets/css/bg.css" type="text/css">
+    <!-- color scheme -->
+    <link rel="stylesheet" href="assets/css/color.css" type="text/css" id="colors">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+<!-- load fonts -->
+<link rel="stylesheet" href="assets/fonts/font-awesome/css/font-awesome.css" type="text/css">
+<link rel="stylesheet" href="assets/fonts/elegant_font/HTML_CSS/style.css" type="text/css">
+<link rel="stylesheet" href="assets/fonts/et-line-font/style.css" type="text/css">
+<!-- revolution slider -->
+<link rel="stylesheet" href="assets/rs-plugin/css/settings.css" type="text/css">
+<link rel="stylesheet" href="assets/css/rev-settings.css" type="text/css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+  <!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
+	<![endif]-->
 </head>
 <body>
+        
+    
   <app-root></app-root>
+        
+ 
+
+  
+
+<!-- Javascript Files
+    ================================================== -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jpreLoader.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/jquery.isotope.min.js"></script>
+    <script src="assets/js/easing.js"></script>
+    <script src="assets/js/jquery.flexslider-min.js"></script>
+    <script src="assets/js/jquery.scrollto.js"></script>
+    <script src="assets/js/owl.carousel.js"></script>
+    <script src="assets/js/jquery.countTo.js"></script>
+    <script src="assets/js/classie.js"></script>
+    <script src="assets/js/video.resize.js"></script>
+    <script src="assets/js/validation.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/enquire.min.js"></script>
+    <script src="assets/js/designesia.js"></script>
+<!-- SLIDER REVOLUTION SCRIPTS  -->
+<script type="text/javascript" src="assets/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+<script type="text/javascript" src="assets/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<link rel="stylesheet" href="assets/enlarge.css">
+
+<script src="assets/enlarge.js"></script>
+<script src="assets/enlarge.init.js"></script>
+<script src="assets/js/typed.js"></script>
+<script>
+  $(function () {
+      // jquery typed plugin
+      $(".typed").typed({
+          stringsElement: $('.typed-strings'),
+          typeSpeed: 100,
+          backDelay: 1500,
+          loop: true,
+          contentType: 'html', // or text
+          // defaults to false for infinite loop
+          loopCount: false,
+          callback: function () { null; },
+          resetCallback: function () { newTyped(); }
+      });
+  });
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+<script>
+$(document).ready(function(){
+   $("#testimonial-slider").owlCarousel({
+       items:1,
+       itemsDesktop:[1000,1],
+       itemsDesktopSmall:[979,1],
+       itemsTablet:[768,1],
+       pagination:true,
+       transitionStyle:"backSlide",
+       autoPlay:true
+   });
+});
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.transitions.css">
+<script>
+$(document).ready(function() {
+ $('#Carousel').carousel({
+     interval: 1000
+ })
+});
+
+</script>
+
 </body>
 </html>

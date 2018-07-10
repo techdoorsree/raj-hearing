@@ -1,0 +1,197 @@
+[
+{
+  "id":1 ,
+  "imgeurl":"assets/images/products/prod1.jpg",
+  "name":"Aceprimax" ,
+  "description1":"Discreet. Powerful. Effortless.",
+  "description2":"light and comfortable, Ace™ primax is the smallest in our family of RIC hearing aids. Despite its compact form, Ace primax is packed with powerful features to deliver the natural ease of hearing. And, thanks to the touchControl App, it’s easily and unobtrusively controlled for complete convenience.",
+  "description3": "Ace primax in detail",
+  "description4": "Ideal for first-time wearers and those who demand the utmost in discretion and functionality, the new Ace primax RIC sits unobtrusively behind the ear. Thanks to its IP67-rated housing, users can select from a range of colors to suit their individual preference. Ace primax delivers power in a tiny form for effortless hearing which, thanks to the touchControl App, can be conveniently and discreetly adjusted."
+  
+},
+{
+  "id":2 ,
+  "imgeurl":"assets/images/products/prod2.jpg",
+  "name":"Caratprimax." ,
+  "description1":"Power meets versatility.",
+  "description2":"As part of our Power Range, the elegant Carat primax was designed to deliver optimum amplification for an outstanding hearing experience. Equipped with all the advantages of the primax platform, this discreet receiver-in-canal hearing aid is suitable for almost all levels of hearing loss.",
+   "description3": "Ace primax in detail",
+  "description4": "Its battery packs even more staying power to provide wearers with extra long performance. More than this, the optional rechargeable battery makes handling Carat primax unbelievably convenient. Compatible with the full range of primax accessories, it combines superb comfort with complete discretion."
+  
+},
+{
+  "id": 3,
+  "imgeurl":"assets/images/products/prod3.jpg",
+  "name":"Cellionprimax." ,
+  "description1":"Revolutionary battery-free hearing.",
+  "description2":"Cellion primax is the world’s first hearing aid with lithium-ion inductive charging. Ideal for customers who don’t want the fuss of changing batteries, Cellion primax starts charging automatically as soon as it is placed in the charger. And, with its smart electronics, it turns on automatically when it’s taken out again. Its rechargeable lithium-ion power cell lasts 24 hours straight without charging and – with no contacts or battery door – its unique OneShell design makes it superbly easy to use.",
+   "description3": "Cellion primax. The hearing aids that lasts a whole day on a single charge",
+  "description4": "Its battery packs even more staying power to provide wearers with extra long performance. More than this, the optional rechargeable battery makes handling Carat primax unbelievably convenient. Compatible with the full range of primax accessories, it combines superb comfort with complete discretion.",
+ "Keyfeatures":"Key features:",
+ "Key1": "Rechargeable lithium-ion power cell",
+ "Key2": "24 hours continuous use with unlimited streaming",
+ "Key3": "Contactless, inductive charging",
+ "Key4": "Unique OneShell design"
+},
+
+{
+  "id": 4,
+  "imgeurl":"assets/images/products/prod4.jpg",
+  "name":"Components for Hearing Aids." ,
+  "description1": "ConnexxAir is the new wireless programming system for almost all Signia hearing aids equipped with e2e wireless capabilities that are programmable in Connexx 83.",
+  "description2": "Noahlink Wireless.",
+  "description3": "The industry-standard programming interface based on the Bluetooth low energy standard. It allows for completely wireless programming of Signia Nx and Pure 13 BT primax hearing aids",
+  "description4": "Audio Streaming",
+  "description5": "Programmed for superb sound",
+  "description6": "The TV sound can be fed directly into Signia Nx or Pure 13 BT primax hearing aids via the StreamLine TV transmitter. Wearers can even adjust the TV volume individually via the myControl App.",
+ "description7": "StreamLine Mic",
+ "description8": "Highest quality streaming from all Bluetooth devices",
+ "description9": "The new StreamLine Mic provides full hands-free audio streaming of phone calls and music with any Bluetooth smartphone. It also works as a remote microphone."
+ 
+ },
+{
+  "id": 5,
+  "imgeurl":"assets/images/products/prod5.jpg",
+  "name":"INSIO NX." ,
+  "description1":"A practically invisible natural hearing experience. Custom made.",
+  "description2":"Tailor-made for the most discerning wearers, Signia’s new Insio™ Nx delivers a more natural sound with maximum discretion.",
+   "description3": "Equipped with Ultra HD e2e for superior wireless binaural processing – including as a small CIC with a single microphone – Insio offers crystal clear sound and unrivalled speech understanding even in very noisy environments.",
+   "description4": "New smaller components offer potential advantages for fittings in tighter ear canals.",
+  "Key1": "Ultra HD e2e for superior speech understanding and a most natural soundSmall size up to high power matrixFull wireless and remote control options for all models",
+"description5":"Insio Nx is compatible with the touchControl App for discreet remote control and TeleCare ready for smoother trials.",
+  "Keyfeatures":"Key features:",
+   "Key2":"Small size up to high power matrix",
+   "Key3":"Full wireless and remote control options for all models"
+  
+  },
+{
+  "id": 6,
+  "imgeurl":"assets/images/products/prod6.jpg",
+  "name":"MOTION 13 NX." ,
+  "description1":"Direct streaming with the most versatile fitting options.",
+  "description2":"Signia’s new Motion™ 13 Nx harmonizes the wearer’s voice and the surrounding sounds, providing the most natural own voice and best speech understanding in noise. Its sleek, new housing design offers individual handling and fitting options to meet almost all of your customers’ wishes..",
+   "description3": "Bluetooth-based direct streaming and the myControl App let Motion 13 Nx offer enhanced connectivity, while you can provide your customers with full live remote support via TeleCare 3.0.",
+"Keyfeatures":"Key features:",
+   "Key1":"Most natural own voice and best speech understanding in noise",
+"Key2":"For individual handling and fitting requirements",
+"Key3":"Ultra HD e2e and Bluetooth connectivity",
+"Key4":"With Notch Therapy for tinnitus treatment",
+"Key5":"Standard battery door can be exchanged for one with an integrated T-Coil."
+ },
+ {
+ "id": 7,
+  "imgeurl":"assets/images/products/prod7.jpg",
+ "name":"Pure10 Nx",
+ "description1":"The ultra-small Pure 10 Nx expertly combines a highly discreet design with a more natural sound.",
+"description2":"Its sleek appearance is complemented by a wealth of audiological innovations that automatically produce a clear sound and excellent speech understanding in noise.",
+ "description3":"Hidden behind the ear, the non-wireless Pure 10 Nx is the ideal solution for those who wish their hearing aids to be simple and discreet.",
+ "description4":"Pure 10 Nx is TeleCare ready and compatible with the touchControl App and miniPocket accessory.",
+ "Keyfeatures":"Key features:",
+ "Key1":"Ultra-small design",
+"Key2":"Outstanding speech understanding in noise",
+"Key3":"Remote control option"
+ },
+ {
+  "id": 8,
+  "imgeurl":"assets/images/products/prod8.jpg",
+ "name":"Pure10Nx",
+ "description1":"Better hearing made completely discreet and simple.",
+ "description2":"Spending time with your loved ones is all about communicating. Whether you are reading a children’s story or catching up on the latest news with friends and family, Pure™ 10 from Signia gives you the confidence of hearing a more natural sound without any hassle. These incredibly tiny, fully automatic hearing aids hide behind your ears to make hearing what’s important as simple as possible.",
+ "description3":"Absolute discretion",
+ "description4":"Signia’s tiny Pure 10 sits nearly invisibly behind your ear. For maximum convenience and discretion, it can be remotely controlled via your smartphone.",
+ "description5":"Pure simplicity for hassle-free hearing",
+ "description6":"With no buttons required for manual adjustments, the fully automatic Pure 10 gives you the ultimate in simplicity and superior sound quality.",
+ "description7":"For a broad range of hearing loss",
+ "description8":"Mild, moderate or severe hearing loss, Pure 10 tackles all these challenges and gives you back the natural sound of life."
+ },
+ {
+ "id": 9,
+  "imgeurl":"assets/images/products/prod9.jpg",
+ "name":"Pure13Nx",
+  "description1":"Superior connectivity combined with the longest streaming time.",
+  "description2":"By separately processing the wearer’s own voice and integrating it smoothly into the soundscape, Signia’s new Pure 13 Nx provides the most own voice and best speech understanding in noise.",
+  "description3":"Thanks to Bluetooth, it comes with superior connectivity with direct streaming and the myControl App. Users enjoy the longest wearing time in its class while streaming.",
+  "description4":"Full live remote support via TeleCare 3.0 quickly familiarizes them with their new Pure 13 Nx hearing aids.",
+ "Keyfeatures":"Key features:",
+ "Key1":"Most natural own voice and best speech understanding in noise",
+ "Key2":"Longest wearing time while streaming",
+ "Key3":"Ultra HD e2e and Bluetooth connectivity",
+ "Key4":"With Notch Therapy for tinnitus treatment",
+ "Key5":"Optional T-Coil"
+ },
+ {
+ "id": 10,
+  "imgeurl":"assets/images/products/prod10.jpg",
+ "name":"Pure13 Nx",
+ "description1":"Strong performers for a natural sounding own voice and the longest streaming time.",
+ "description2":"Your natural choice for performance and hearing.",
+ "description3":"Whether you’re in a meeting, taking an important business call, preparing a presentation or meeting colleagues for lunch, with Signia’s Pure™ 13 you can enjoy the most natural sound experience along with superior connectivity and the longest wearing time while audio streaming from your smartphone and TV.",
+ "description4":"Maximum energy efficiency",
+ "description5":"The reliable Pure 13 from Signia provides the longest audio streaming time in its class, so you can keep your head clear for the important things in life.",
+ "description6":"Fully featured",
+ "description7":"Packed with sophisticated, state-of-the-art technology, Signia’s Pure 13 offers the most natural sound and highest hearing performance as well as superior connectivity.",
+ "description8":"For all levels of hearing loss",
+ "description9":"Mild, moderate, severe or profound hearing loss, Pure 13 tackles all these challenges and gives you back the natural sound of life.",
+ "description10":"Pure-13-Nx_on-table_1248x1248px"
+ 
+ } ,
+ {
+ "id": 11,
+  "imgeurl":"assets/images/products/prod11.jpg",
+ "name":"PURE 312 NX",
+ "description1":"The smallest fully featured hearing aid with direct streaming.",
+ "description2":"Equipped with all benefits of the new Signia Nx platform, Pure™ 312 Nx keeps the wearer’s own voice and remaining soundscape in perfect balance. This way, it offers the most natural sound and highest hearing performance in a small, elegant housing.",
+ "description3":"The unique laser edge antenna design delivers the smallest possible size for Bluetooth-based direct streaming and remote control via the myControl App without compromising on the highest hearing performance.",
+ "description4":"Plus, TeleCare 3.0 lets your customers enjoy full live remote support and fast, smooth trials.",
+  "Keyfeatures":"Key features:",
+ "Key1":"Most natural own voice and best speech understanding in noise",
+ "Key2":"Small, discreet design",
+ "Key3":"Ultra HD e2e and Bluetooth connectivity",
+ "Key4":"With Notch Therapy for tinnitus treatment"
+ },
+ {
+ "id": 12,
+  "imgeurl":"assets/images/products/prod12.jpg",
+ "name":"PURE CHARGE&GO NX",
+ "description1":"The most natural own voice with convenient wireless rechargeability.",
+ "description2":"The new Pure™ Charge&Go Nx combines all the advantages of Signia Nx with convenient wireless rechargeability. It is intuitive to handle because we integrated wireless charging into its design.",
+ "description3":"Wearers no longer worry that they might struggle to change disposable batteries. Only this contactless charging system gives wearers complete convenience, knowing that the hearing aids charge as they should every time.",
+ "description4":"The high-capacity Li-Ion power cell of Pure Charge&Go Nx supports top Bluetooth connectivity, allowing wearers to enjoy long-lasting high quality audio streaming. By charging up the power cell while they sleep, they can trust their hearing aids to always deliver the sounds they want to hear. Simply Charge&Go!",
+ "Keyfeatures":"Key features:",
+ "Key1":"Most natural own voice and best speech understanding in noise thanks to Signia Nx chip",
+ "Key2":"Long-lasting high quality audio streaming",
+ "Key3":"Ultra HD e2e and Bluetooth connectivity"
+ 
+ },
+ {
+  "id": 13,
+  "imgeurl":"assets/images/products/prod13.jpg",
+ "name":"SILK NX",
+ "description1": "A practically invisible natural hearing experience. Simply fit and go.",
+  "description2": "The new Silk Nx delivers a natural hearing experience in its discreet size, instant fit, and exceptional sound quality.",
+   "description3": "The only ready-to-wear CIC with Ultra HD e2e for superior wireless binaural processing is also 20% smaller than Silk primax™ for ultimate discretion. Thanks to its flexible silicone Click Sleeves, Silk Nx offers a precise fit without waiting times.",
+    "description4": "And for wearers with unaidable hearing loss in one ear, CROS Silk Nx provides the most discreet solution – the world’s first CROS CIC hearing aid.",
+	 "description5": "Silk Nx is compatible with the touchControl App for discreet remote control and TeleCare ready for smoother trials.",
+ "Keyfeatures":"Key features:",
+ "Key1":"Ultra HD e2e for superior speech understanding and a most natural sound",
+ "Key2":"Click Sleeves for a quick and easy fit",
+ "Key3":"Even smaller than its predecessor",
+ "Key4":"Invisible and discreet",
+ "Key5":"Binaural OneMic directionality"
+ },
+ {
+  "id": 14,
+  "imgeurl":"assets/images/products/prod14.jpg",
+ "name":"SILK PRIMAX. CLICK. FIT. GO",
+ "description1":"Ready-to-wear CICs. Discretion of CIC meets simplicity of RIC.",
+ "description2":"Packed with advanced features, the tiny Silk primax Click CICs are nevertheless invisible in the ear. Their binauaral OneMic directionality is a world’s first and, with their flexible, swift fit Click Sleeves, the new Silk primax Click models are ideal for first-time wearers looking for a discreet solution and no fuss. Three different sleeve sizes, suitable for any ear, mean your customers can walk in, experience Silk primax and walk out of the door with a new CIC hearing aid without having to wait for a custom-built device.",
+ "Keyfeatures":"Key features:",
+ "Key1":"Click Sleeves for a swift fit",
+  "Key2":"3 sleeve sizes to fit every ear",
+   "Key3":"Sits invisibly in the ear canal for complete discretion",
+    "Key4":"Clinically proven to reduce hearing effort*"
+ 
+ }
+  
+  
+  ]

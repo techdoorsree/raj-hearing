@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/ng2-slim-loading-bar/style.css";
+
+
+p{
+    font-size:15px;
+}
+.ngx-pagination a, .ngx-pagination button {
+    color:white;
+    display: block;
+    padding: 0.1875rem 0.625rem;
+    border-radius: 0;
+}

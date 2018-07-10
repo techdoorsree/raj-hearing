@@ -1,0 +1,13 @@
+.de_light #section-about-us-2 {
+    background: beige;
+}
+p{
+    text-align: justify;
+}
+img{
+    padding: .2em;
+    box-shadow: 1px 3px 22px 2px #777;
+}
+p,h2{
+    color:white
+}

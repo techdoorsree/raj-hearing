@@ -1,0 +1,52 @@
+
+
+
+<app-sub> </app-sub>
+      
+<br>
+    
+      <section class="wpb_row vc_row-fluid no-padding" style="background:black">
+  
+        <div class="row" >
+             
+            <div class="vc_column-inner ">
+                <div class="wpb_wrapper " *ngFor="let p of products | paginate: { itemsPerPage: 8, currentPage: p }" >
+      
+            
+            <div class="col-md-3 " >
+                
+                
+                        
+                                    <a  routerLink="/products/{{ p.name }}">
+                                      <img width="450"  height="300" src= "{{p.imgeurl}}" class="img-responsive " /></a>
+                        <div class="spacer-single"></div>
+                       
+                    <h3>{{p.name}}</h3>
+                                    <div class="spacer-single-10"></div>								
+                        <a    routerLink="/products/{{ p.name }}" class="btn-line btn-fullwidth"style="color:white">Read More</a>
+                      
+                       
+            </div>
+         
+          </div>	
+    
+        </div>
+    
+      </div>
+      
+    </section>
+
+    <section class="wpb_row vc_row-fluid no-padding" >
+        <div class="container">
+        <div class="row" >
+            
+            <div class="vc_column-inner ">
+                <div class="wpb_wrapper ">
+                    <div class="col-md-12" >
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+  </section> 
